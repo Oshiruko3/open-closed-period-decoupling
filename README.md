@@ -30,7 +30,9 @@ The operator systematically projects the relative Frobenius series back onto the
 | **Fermat Quintic $X_5$** | $X_5 \subset \mathbb{P}^4$ ($d=5$) | Raw Amplitude | $2\sin(\pi/5) = \sqrt{\frac{5-\sqrt{5}}{2}}$ | `None` | N/A | 0.0050 s |
 | **Fermat Quintic $X_5$** | $X_5 \subset \mathbb{P}^4$ ($d=5$) | **With $\mathcal{K}_{\text{gauge}}$** | $2\sin(\pi/5) = \sqrt{\frac{5-\sqrt{5}}{2}}$ | **`[2, -3, 0, 1]`** | **`0.0`** | **`0.0000 s`** |
 | **Octic Threefold $X_8$** | $X_8 \subset \mathbb{P}^4_{(1,1,1,1,4)}$ ($d=8$) | Raw Amplitude | $2\sin(\pi/8) = \sqrt{2-\sqrt{2}}$ | `None` | N/A | 0.0050 s |
-| **Octic Threefold $X_8$** | $X_8 \subset \mathbb{P}^4_{(1,1,1,1,4)}$ ($d=8$) | **With $\mathcal{K}_{\text{gauge}}$** | $2\sin(\pi/8) = \sqrt{2-\sqrt{2}}$ | **`[3, -2, 0, 1]`** | **`0.0`** | **`0.0000 s`** |
+| **Octic Threefold $X_8$** | $X_8 \subset \mathbb{P}^4_{(1,1,1,1,4)}$ ($d=8$) | **With $\mathcal{K}_{\text{gauge}}$** | $2\sin(\pi/8) = \sqrt{2-\sqrt{2}}$ | **`[3, -2, 0, 1]`** | **`0.0`** | **`0.0000 s*`** |
+
+> *\*Note on Execution Times: Measured using a single CPU thread under Python 3.10 / mpmath. Execution times are provided for illustrative reference and may vary depending on local hardware specifications and CPU clock frequencies.*
 
 ---
 
