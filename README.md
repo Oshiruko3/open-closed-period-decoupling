@@ -98,7 +98,8 @@ open-closed-period-decoupling/
 
 ## ⚖️ License & Citation
 
-This project is licensed under the MIT License.
+- **Source Code (`src/`)**: Licensed under the [MIT License](LICENSE).
+- **Manuscripts & Documentation (`paper/`)**: Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ```bibtex
 @article{Matsumoto2026Decoupling,
