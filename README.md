@@ -6,7 +6,7 @@
 
 > **Paper**: *A Deterministic Griffiths Gauge-Cancelling Operator for Inhomogeneous Picard--Fuchs Systems: Decoupling Open--Closed Periods and D-Brane Amplitudes via High-Precision PSLQ*  
 > **Author**: Kouta Matsumoto (Independent Researcher, ORCID: [0009-0008-6385-9185](https://orcid.org/0009-0008-6385-9185))  
-> **Manuscript (PDF)**: [`paper/first_report_gg_operator.pdf`](paper/first_report_gg_operator.pdf)
+> **Manuscript (PDF)**: [`paper/first_report/first_report_gg_operator.pdf`](paper/first_report/first_report_gg_operator.pdf)
 
 ---
 
@@ -76,10 +76,12 @@ python src/stress_test_devils_advocate.py
 open-closed-period-decoupling/
 ├── README.md                                # Official documentation and benchmark tables
 ├── paper/
-│   ├── first_report_gg_operator.pdf         # Publication-ready Letter manuscript (PDF)
-│   ├── first_report_gg_operator.tex         # LaTeX source code (JHEP / CMP format)
-│   ├── g_operator_open_closed_period_decoupling.md # Markdown draft of Letter report
-│   └── companion_paper_deep_geometry.md     # Full comprehensive companion paper draft
+│   ├── first_report/                        # 【Report 1】Letter / Fast-Track Manuscript
+│   │   ├── first_report_gg_operator.pdf     # Publication-ready Letter manuscript (PDF)
+│   │   ├── first_report_gg_operator.tex     # LaTeX source code (JHEP / CMP format)
+│   │   └── g_operator_open_closed_period_decoupling.md # Markdown draft
+│   └── full_paper/                          # 【Report 2】Comprehensive Theoretical Sequel
+│       └── companion_paper_deep_geometry.md # Base draft for deep geometry & universal scaling
 └── src/
     ├── verify_octic_threefold_g_operator.py # 50-dps cross-manifold verification
     └── stress_test_devils_advocate.py       # 118-bit phase transition stress test
