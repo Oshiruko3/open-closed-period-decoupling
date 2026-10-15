@@ -16,3 +16,7 @@ __pycache__/
 # OS artifacts
 Thumbs.db
 .DS_Store
+
+# Master raw drafts (Private/Unpublished research archives)
+*_master.md
+companion_paper_deep_geometry*.md
