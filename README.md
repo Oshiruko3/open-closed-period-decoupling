@@ -1,11 +1,13 @@
 # Open-Closed Period Decoupling via Griffiths Gauge-Cancellation Operator ($g$-Operator)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23397919.svg)](https://doi.org/10.5281/zenodo.23397919)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Precision: 50-dps](https://img.shields.io/badge/Precision-50--dps-success.svg)]()
 [![Security: 118--bit](https://img.shields.io/badge/Phase%20Boundary-118--bit%20Crypto-critical.svg)]()
 
 > **Paper**: *A Deterministic Griffiths Gauge-Cancelling Operator for Inhomogeneous Picard--Fuchs Systems: Decoupling Open--Closed Periods and D-Brane Amplitudes via High-Precision PSLQ*  
 > **Author**: Kouta Matsumoto (Independent Researcher, ORCID: [0009-0008-6385-9185](https://orcid.org/0009-0008-6385-9185))  
+> **Official DOI**: [10.5281/zenodo.23397919](https://doi.org/10.5281/zenodo.23397919)  
 > **Manuscript (English PDF)**: [`paper/first_report/first_report_gg_operator.pdf`](paper/first_report/first_report_gg_operator.pdf)  
 > **Manuscript (日本語版 PDF)**: [`paper/first_report/first_report_gg_operator_ja.pdf`](paper/first_report/first_report_gg_operator_ja.pdf)
 
@@ -102,8 +104,9 @@ This project is licensed under the MIT License.
 @article{Matsumoto2026Decoupling,
   author    = {Kouta Matsumoto},
   title     = {A Deterministic Griffiths Gauge-Cancelling Operator for Inhomogeneous Picard--Fuchs Systems: Decoupling Open--Closed Periods and D-Brane Amplitudes via High-Precision PSLQ},
-  journal   = {arXiv preprint},
+  journal   = {Zenodo},
   year      = {2026},
-  url       = {https://github.com/Oshiruko3/open-closed-period-decoupling}
+  doi       = {10.5281/zenodo.23397919},
+  url       = {https://doi.org/10.5281/zenodo.23397919}
 }
 ```
