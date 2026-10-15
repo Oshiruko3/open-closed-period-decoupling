@@ -1,7 +1,7 @@
 # 非斉次Picard-Fuchs/GKZ系におけるGriffithsゲージ相殺作用素（$g$作用素）を用いた決定論的開閉周期分離アルゴリズム
 ## A Deterministic Griffiths Gauge-Cancelling Operator for Inhomogeneous Picard-Fuchs Systems: Decoupling Open-Closed Periods and D-Brane Amplitudes via High-Precision PSLQ
 
-**著者**: 松本 耕太（Kouta Matsumoto, Independent Researcher, ORCID: 0009-0008-6385-9185）  
+**著者**: 松本 幸太（Kouta Matsumoto, Independent Researcher, ORCID: 0009-0008-6385-9185）  
 **日付**: 2026年10月15日  
 **対象分野**: 計算機代数幾何学（Computational Algebraic Geometry）、数理物理学（Mathematical Physics / String Theory）、実験数学（Experimental Mathematics）  
 **ターゲットジャーナル**: *Journal of High Energy Physics (JHEP)* / *Communications in Mathematical Physics* / *Experimental Mathematics*
